@@ -1,7 +1,10 @@
 .container {
   max-width: 960px;
 }
-
+.navbar-brand
+{
+  font-family: "Racing Sans One", sans-serif;
+}
 /*
  * Custom translucent site header
  */
